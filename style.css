@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
+
+.profile-card {
+    min-height: 100px;
+    max-height: 200px;
+    min-width: 250px;
+    max-width: 400px;
+    padding: 10px;
+    margin: 20px;
+    color: #343;
+}
+
+p {
+    font-size: 16px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
